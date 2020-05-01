@@ -1,0 +1,10 @@
+---
+swagger: "2.0"
+info:
+  version: "v1"
+  title: "swagger-maven-plugin测试"
+host: "localhost:8000"
+basePath: "/module"
+schemes:
+- "http"
+- "https"
